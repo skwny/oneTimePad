@@ -7,7 +7,7 @@ When encrypting plaintext files, files must be within the same directory as the 
 
 1. Run the encryption program:
 
-	otp_enc_d /<encryptionPort/> &
+	otp_enc_d \<encryptionPort\> &
 
 2. Run the decryption program:
 
