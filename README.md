@@ -15,7 +15,7 @@ When encrypting plaintext files, files must be within the same directory as the 
 
 3. Generate a key greater than or equal to the plaintext length and save it to a file within the same directory:
 
-	keygen <\length\> > \<keyFileName\>
+	keygen \<length\> > \<keyFileName\>
 
 4. Encrypt the plaintext into a new ciphertext file:
 
